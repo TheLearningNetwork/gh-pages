@@ -1,2 +1,0 @@
-webpackJsonp([4],{937:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=o(0),r=o.n(l),a=o(412);o.n(a);t.default=r.a.createElement(a.Slide,{transition:["fade"],bgColor:"secondary",textColor:"primary"},r.a.createElement(a.BlockQuote,null,r.a.createElement(a.Quote,null,"Customers care about their problems"),r.a.createElement(a.Cite,null,"Not your solution")))}});
-//# sourceMappingURL=4.4f8a1c63.chunk.js.map
