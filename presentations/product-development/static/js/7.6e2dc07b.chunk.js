@@ -1,0 +1,2 @@
+webpackJsonp([7],{934:function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r(0),o=r.n(n),a=r(412);r.n(a);t.default=o.a.createElement(a.Slide,{transition:["zoom"],bgColor:"primary"},o.a.createElement(a.Heading,{size:1,fit:!0,caps:!0,lineHeight:1,textColor:"secondary",textFont:"primary"},"The Learning Network"),o.a.createElement(a.Text,{margin:"10px 0 0",textColor:"tertiary",size:1,bold:!0,textFont:"secondary"},"product development"))}});
+//# sourceMappingURL=7.6e2dc07b.chunk.js.map
